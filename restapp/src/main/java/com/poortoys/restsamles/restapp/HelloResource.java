@@ -1,4 +1,4 @@
-package com.example.restapp;
+package com.poortoys.restsamles.restapp;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
